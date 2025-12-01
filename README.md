@@ -191,7 +191,7 @@ cd snakebite-game
 ```npm install```
 
 ### 3️⃣ Start Development Server
-```npm start```
+```npm run dev```
 
 ### 4️⃣ Build for Production
 ```npm run build```
@@ -233,5 +233,6 @@ It is **not a substitute** for professional medical judgment, clinical expertise
 The decisions, pathways, and outcomes shown in the simulation are based on standard clinical guidelines, but **real patient management must always be done by qualified medical professionals** following institutional protocols.
 
 The authors, developers, and associated institutions are **not responsible** for any misuse, misinterpretation, or adverse outcomes resulting from applying any information from this simulation in real clinical settings.
+
 
 **Always seek professional medical supervision during real emergencies.**
