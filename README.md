@@ -174,7 +174,7 @@ flowchart TD
 
 **Frontend:** ReactJS, Tailwind CSS
 
-**State Management:** Context API/ LocalStorage
+**State Management:** Context API, LocalStorage
 
 **Gamification Engine:** Custom logic
 
