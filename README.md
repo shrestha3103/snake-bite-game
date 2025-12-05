@@ -130,7 +130,6 @@ flowchart TD
 
 ## 🧬 Game Flow Logic
 
-This Mermaid diagram recreates the branching structure from the flowchart image:
 ```mermaid
 flowchart TD
 
@@ -236,3 +235,4 @@ The authors, developers, and associated institutions are **not responsible** for
 
 
 **Always seek professional medical supervision during real emergencies.**
+
